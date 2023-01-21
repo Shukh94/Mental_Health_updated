@@ -1,0 +1,507 @@
+@media (max-width: 1300px) {
+  .btn_ripple {
+    left: 44%;
+  }
+  .pricing_box img {
+    width: 45px;
+  }
+  .pricing_box h3 {
+    font-size: 22px;
+    padding: 10px 0;
+  }
+  .pricing_box p {
+    font-size: 15px;
+  }
+  .client_comment p {
+    padding: 15px 0;
+  }
+  .icon {
+    top: 21px;
+    left: 15px;
+  }
+  .client_details {
+    padding: 0;
+  }
+}
+
+@media (max-width: 1200px) {
+  .pricing_box img {
+    width: 40px;
+  }
+  .pricing_box h3 {
+    font-size: 20px;
+    padding: 10px 0;
+  }
+  .pricing_box p {
+    font-size: 14px;
+  }
+  .client_comment p {
+    padding: 15px 0;
+  }
+  .icon {
+    top: 21px;
+    left: 15px;
+  }
+  .client_details {
+    padding: 0;
+  }
+}
+
+@media (max-width: 1024px) {
+  .hero_content_text h1 {
+    font-size: 55px;
+  }
+  .form_box {
+    width: auto;
+  }
+  .video img {
+    width: 90%;
+  }
+  .btn_ripple {
+    left: 39%;
+    bottom: 33%;
+  }
+  .right_tools_text h1 {
+    font-size: 37px;
+  }
+  .pricing_box img {
+    width: 30px;
+  }
+  .pricing_box h3 {
+    font-size: 18px;
+    padding: 8px 0;
+  }
+  .price span {
+    font-size: 40px;
+  }
+  .feedback_heading_text h1 {
+    font-size: 35px;
+  }
+  .owl-dots {
+    left: 46%;
+  }
+  .owl-nav .owl-prev::before {
+    padding: 12px 15px;
+  }
+  .owl-nav .owl-next::before {
+    padding: 12px 15px;
+  }
+  .client_comment p {
+    padding: 9px 0;
+    line-height: 160%;
+  }
+  .client_box {
+    padding: 15px;
+  }
+  .icon {
+    top: 0px;
+    left: 4px;
+  }
+  .icon i {
+    font-size: 35px;
+  }
+  .client_img {
+    margin-right: 10px;
+  }
+  .footer_navigation ul li {
+    padding: 5px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .btn_nav {
+    padding: 8px 12px;
+  }
+  .hero_content_text h1 {
+    font-size: 45px;
+  }
+  .hero_content_text p {
+    font-size: 16px;
+  }
+  .checkbox_div span {
+    font-size: 14px;
+  }
+  input[type="checkbox"] {
+    width: 12px;
+    height: 12px;
+  }
+  .btn_ripple {
+    left: 37%;
+    bottom: 30%;
+    width: 70px;
+    height: 70px;
+  }
+  .pricing_heading h1 {
+    font-size: 40px;
+  }
+  .price span {
+    font-size: 30px;
+  }
+  .pricing_box {
+    padding: 13px 17px;
+  }
+  .content-table th,
+  .content-table td {
+    padding: 10px 10px;
+  }
+  .th_one {
+    font-size: 18px;
+  }
+  td {
+    font-size: 16px;
+  }
+  .td_one {
+    font-size: 13px;
+  }
+  .td_one h4 {
+    font-size: 16px;
+  }
+  .td_one p {
+    font-size: 13px;
+  }
+  td h4 {
+    font-size: 16px;
+  }
+  td p {
+    font-size: 13px;
+  }
+  .fa-solid {
+    font-size: 16px;
+  }
+  .active-row-last td {
+    color: #fff !important;
+    font-size: 13px;
+  }
+
+  .client_box {
+    margin: 0;
+  }
+  .client_comment p {
+    padding: 9px 0;
+    line-height: 150%;
+    font-weight: 400;
+    font-size: 16px;
+  }
+  .icon {
+    top: 24px;
+    left: 2px;
+  }
+  .icon i {
+    font-size: 35px;
+  }
+  .client_identity h6 {
+    font-size: 13px;
+  }
+  .client_box_row {
+    padding: 20px 0 !important;
+    margin-right: auto;
+  }
+  .terms img {
+    width: 120px;
+  }
+
+  .footer_navigation h6 {
+    font-size: 18px;
+  }
+  .footer_navigation ul li {
+    padding: 3px 0;
+  }
+  .footer_navigation ul li a {
+    font-size: 14px;
+  }
+
+  .footer_text p {
+    font-size: 14px;
+    width: 80%;
+    padding-bottom: 15px;
+  }
+}
+
+@media (max-width: 575px) {
+  .btn_nav {
+    display: none;
+  }
+  .hero_content_text {
+    text-align: center;
+  }
+  .hero_content_text h1 {
+    font-size: 45px;
+    padding-bottom: 5px;
+  }
+  .hero_content_text p {
+    padding: 15px;
+  }
+  .form_box_col {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  .video {
+    padding-bottom: 20px;
+  }
+  .btn_ripple {
+    left: 45%;
+    bottom: 35%;
+  }
+  .video img {
+    width: 90%;
+    display: block;
+    margin: auto;
+  }
+  .right_tools_text h1 {
+    font-size: 35px;
+    text-align: center;
+  }
+  .right_tools_text p {
+    text-align: center;
+  }
+
+  .pricing_box_heading {
+    text-align: center;
+  }
+  .price {
+    text-align: center;
+  }
+  .Table_heading_text h1 {
+    font-size: 35px;
+  }
+  .Table_heading_text p {
+    padding: 8px 0;
+  }
+  .th_one {
+    font-size: 16px;
+  }
+  td {
+    font-size: 16px;
+  }
+  .td_one h4 {
+    font-size: 16px;
+    margin: 3px 0;
+  }
+  .td_one p {
+    font-size: 13px;
+  }
+  td h4 {
+    font-size: 16px;
+    margin-bottom: 3px;
+  }
+  td p {
+    font-size: 13px;
+  }
+  .active-row-last td {
+    font-size: 13px;
+  }
+  .fa-solid {
+    font-size: 16px;
+  }
+  .owl-nav {
+    top: -2rem;
+    right: 40%;
+  }
+  .owl-dots {
+    left: 35%;
+  }
+  .feedback_heading_text {
+    width: 100%;
+    text-align: center;
+  }
+
+  .client_comment p {
+    padding: 16px 25px;
+    line-height: 150%;
+    font-weight: 400;
+    font-size: 16px;
+  }
+  .icon {
+    top: 83px;
+    left: 25px;
+  }
+  .icon i {
+    font-size: 38px;
+  }
+  .client_box {
+    margin: 20px;
+  }
+  .client_details {
+    padding: 0 20px;
+  }
+  .footer_navigation {
+    width: 50%;
+  }
+  .footer_text p {
+    font-size: 14px;
+    width: 60%;
+    padding-bottom: 15px;
+  }
+  .client_identity h5 {
+    font-size: 16px;
+    padding-bottom: 5px;
+  }
+  .client_identity h6 {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 425px) {
+  .btn_ripple {
+    left: 42%;
+    bottom: 37%;
+    width: 70px;
+    height: 70px;
+  }
+
+  .Table_heading_text h1 {
+    font-size: 35px;
+  }
+
+  .content-table th,
+  .content-table td {
+    padding: 5px 5px;
+  }
+  .icon {
+    top: 24px;
+    left: 21px;
+  }
+
+  .client_comment p {
+    font-size: 16px;
+  }
+  .client_identity h5 {
+    font-size: 14px;
+    padding-bottom: 5px;
+  }
+  .client_identity h6 {
+    font-size: 13px;
+  }
+  .client_box {
+    margin: 10px;
+  }
+}
+
+@media (max-width: 400px) {
+  .icon {
+    top: 12px;
+    left: 22px;
+  }
+  .owl-dots {
+    left: 30%;
+  }
+}
+
+@media (max-width: 375px) {
+  .form_box {
+    padding: 25px 25px;
+  }
+  .owl-nav {
+    top: -2rem;
+    right: 33%;
+  }
+  .td_one p {
+    padding-bottom: 10px;
+  }
+  .td_one h4 {
+    font-size: 14px;
+    margin: 3px 0;
+  }
+  .td_one p {
+    font-size: 12px;
+  }
+  td h4 {
+    font-size: 15px;
+    margin-bottom: 3px;
+  }
+  td p {
+    font-size: 12px;
+    line-height: 150%;
+  }
+  .active-row-last td {
+    font-size: 12px;
+  }
+  .th_one {
+    font-size: 15px;
+  }
+  .content-table {
+    font-size: 11px;
+  }
+  .content-table th,
+  .content-table td {
+    padding: 3px 4px;
+    width: 30%;
+    line-height: 140%;
+    padding-top: 10px;
+  }
+  .icon {
+    top: 44px;
+    left: 22px;
+  }
+  .pricing_heading h1 {
+    font-size: 35px;
+  }
+  .owl-dots {
+    left: 30%;
+  }
+  .client_comment p {
+    font-size: 14px;
+  }
+  .client_identity h5 {
+    font-size: 14px;
+    padding-bottom: 5px;
+  }
+  .client_identity h6 {
+    font-size: 13px;
+  }
+  .client_box {
+    margin: 10px;
+  }
+}
+
+@media (max-width: 371px) {
+  .icon {
+    top: 33px;
+    left: 22px;
+  }
+  .owl-dots {
+    left: 25%;
+  }
+}
+
+@media (max-width: 320px) {
+  .hero_content_text h1 {
+    font-size: 35px;
+    padding-bottom: 10px;
+  }
+  .form_box {
+    padding: 16px 10px;
+  }
+  .btn_ripple {
+    left: 40%;
+    bottom: 36%;
+    width: 70px;
+    height: 70px;
+  }
+  .fa-solid {
+    font-size: 14px;
+  }
+  td {
+    font-size: 14px;
+  }
+  .td_one {
+    font-size: 12px;
+    line-height: 185% !important;
+  }
+  .th_one {
+    font-size: 14px;
+    line-height: 150% !important;
+  }
+  .client_comment p {
+    font-size: 14px;
+    line-height: 130%;
+  }
+  .owl-dots {
+    left: 26%;
+  }
+  .icon {
+    top: 25px;
+    left: 22px;
+  }
+}
